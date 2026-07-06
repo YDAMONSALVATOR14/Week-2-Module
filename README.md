@@ -1,86 +1,150 @@
-# 🚀 Week 2 Module | Data Structures & Algorithms
+# 🚀 Week 2 Module | Searching & Sorting Algorithms in Java
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk)
-![DSA](https://img.shields.io/badge/Data_Structures-%26_Algorithms-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![KCC](https://img.shields.io/badge/KCC-ITM-red?style=for-the-badge)
+![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk)
+![Algorithms](https://img.shields.io/badge/Topic-Searching%20%26%20Sorting-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Repository](https://img.shields.io/badge/Repository-Week%202-purple?style=for-the-badge)
+![College](https://img.shields.io/badge/KCC%20Institute%20of%20Technology%20and%20Management-red?style=for-the-badge)
 
-### 💻 Searching & Sorting Algorithms in Java
+# 🔍 Searching & Sorting Algorithms in Java
 
-*Building a strong foundation in Data Structures & Algorithms through practical Java implementations.*
+### *Building Strong Programming Fundamentals Through Searching & Sorting Techniques*
 
-⭐ *If you find this repository useful, consider giving it a star!*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=720&lines=Learning+Searching+Algorithms;Understanding+Sorting+Techniques;Mastering+Problem+Solving;Building+Strong+Programming+Logic;Practice+%E2%86%92+Learn+%E2%86%92+Grow+%F0%9F%9A%80" />
+
+⭐ **If you find this repository helpful, consider giving it a Star!**
 
 </div>
 
 ---
 
-# 👨‍💻 Student Information
+# 👨‍🎓 Student Information
 
-| 👤 Details | 📌 Information |
-|------------|----------------|
-| **Name** | Ayush Gupta |
-| **Branch** | B.Tech CSE (AI & ML) |
-| **College** | KCC Institute of Technology & Management |
+| 📌 Field | Details |
+|----------|---------|
+| 👤 **Name** | Ayush Gupta |
+| 🎓 **Branch** | B.Tech CSE (AI & ML) |
+| 🏫 **College** | KCC Institute of Technology & Management |
 
 ---
 
 # 📖 About This Repository
 
-This repository contains the solutions for **Week 2 Module** assignments implemented in **Java**. The programs demonstrate fundamental **Searching** and **Sorting** techniques along with their execution outputs.
+This repository contains the Java solutions for the **Week 2 Data Structures & Algorithms Module**.
+
+The programs focus on implementing fundamental **Searching** and **Sorting** algorithms through practical real-world scenarios. Each solution is designed to strengthen algorithmic thinking, improve coding skills, and build a solid foundation for advanced Data Structures & Algorithms.
 
 ---
 
-# 📂 Programs Included
+# 🌟 Programs Included
 
-| 💡 Program | 📚 Concept |
-|------------|------------|
-| 🔍 Fraud Transaction Detection | Linear Search |
-| 🔎 Server Log Search | Binary Search |
-| 📈 Sort Employee Salaries | Bubble Sort |
-| ⚡ Sort Website Response Time | Insertion Sort |
-| 🏆 Prioritize Bug Reports | Selection Sort |
+## 🔍 Fraud Transaction Detection (Linear Search)
+
+Searches for a suspicious transaction ID in an unsorted list.
+
+**Concept Used:** Linear Search
 
 ---
 
-# 📁 Repository Contents
+## 🔎 Server Log Search (Binary Search)
 
-```
+Searches for a specific server log ID in a sorted list.
+
+**Concept Used:** Binary Search
+
+---
+
+## 📈 Sort Employee Salaries (Bubble Sort)
+
+Sorts employee salary records in ascending order.
+
+**Concept Used:** Bubble Sort
+
+---
+
+## ⚡ Sort Website Response Time (Insertion Sort)
+
+Sorts website response times to analyze system performance.
+
+**Concept Used:** Insertion Sort
+
+---
+
+## 🏆 Prioritize Bug Reports (Selection Sort)
+
+Sorts bug priority scores in ascending order for better task management.
+
+**Concept Used:** Selection Sort
+
+---
+
+# 📂 Repository Structure
+
+```text
 📦 Week-2-Module
- ┣ 📄 LinearSearch.java
- ┣ 📄 BinarySearch.java
- ┣ 📄 BubbleSort.java
- ┣ 📄 InsertionSort.java
- ┣ 📄 SelectionSort.java
- ┣ 📄 Week 2 Module.pdf
- ┗ 📄 README.md
+│
+├── LinearSearch.java
+├── BinarySearch.java
+├── BubbleSort.java
+├── InsertionSort.java
+├── SelectionSort.java
+├── Week 2 Module.pdf
+└── README.md
 ```
+
+---
+
+# 📊 Algorithm Complexity
+
+| Algorithm | Best | Average | Worst | Space |
+|-----------|:----:|:-------:|:-----:|:-----:|
+| 🔍 Linear Search | O(1) | O(n) | O(n) | O(1) |
+| 🔎 Binary Search | O(1) | O(log n) | O(log n) | O(1) |
+| 📈 Bubble Sort | O(n) | O(n²) | O(n²) | O(1) |
+| ⚡ Insertion Sort | O(n) | O(n²) | O(n²) | O(1) |
+| 🏆 Selection Sort | O(n²) | O(n²) | O(n²) | O(1) |
 
 ---
 
 # 🛠️ Technologies Used
 
-<p align="center">
-
-☕ **Java** &nbsp;&nbsp;&nbsp; 💻 **VS Code**
-
-</p>
+| Technology | Purpose |
+|------------|---------|
+| ☕ Java | Programming Language |
+| 💻 VS Code | Code Editor |
+| 📄 PDF | Assignment Reference |
 
 ---
 
 # 🎯 Learning Outcomes
 
-✅ Understand Linear & Binary Search
+After completing this module, I gained hands-on experience in:
 
-✅ Learn Bubble, Insertion & Selection Sort
+✅ Linear Search Algorithm
 
-✅ Analyze searching and sorting techniques
+✅ Binary Search Algorithm
 
-✅ Improve Java programming skills
+✅ Bubble Sort Technique
 
-✅ Build a strong DSA foundation
+✅ Insertion Sort Technique
+
+✅ Selection Sort Technique
+
+✅ Algorithm Analysis
+
+✅ Time & Space Complexity
+
+✅ Java Programming Fundamentals
+
+✅ Logical Thinking & Problem Solving
+
+---
+
+# 💡 Why Searching & Sorting?
+
+Searching and Sorting algorithms are the backbone of computer science and software development. They are used in databases, search engines, operating systems, AI applications, and countless real-world systems. Mastering these algorithms is an essential step toward becoming proficient in **Data Structures & Algorithms** and preparing for technical interviews.
 
 ---
 
@@ -90,16 +154,18 @@ This repository contains the solutions for **Week 2 Module** assignments impleme
 
 ## Ayush Gupta
 
-🎓 **B.Tech CSE (AI & ML)**
+🎓 **B.Tech Computer Science & Engineering (AI & ML)**
 
 🏫 **KCC Institute of Technology & Management**
 
-🌱 *Passionate about Java • DSA • AI/ML*
+💙 *Passionate about Java • Data Structures & Algorithms • AI/ML • Software Development*
 
 ---
 
-### ⭐ Thanks for visiting this repository!
+### 🌟 Thank You for Visiting!
 
-**Happy Coding! 🚀**
+If you found this repository helpful, consider giving it a ⭐ **Star** and explore my other Java and DSA repositories.
+
+### 🚀 Happy Coding!
 
 </div>
