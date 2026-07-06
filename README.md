@@ -1,57 +1,105 @@
-#Week 2 Module
+# 🚀 Week 2 Module | Data Structures & Algorithms
 
-Student Information
+<div align="center">
 
-- Name: Ayush Gupta
-- Branch: B.Tech CSE (AI & ML)
-- Semester: III
-- Subject: Data Structures and Algorithms Lab
+![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk)
+![DSA](https://img.shields.io/badge/Data_Structures-%26_Algorithms-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![KCC](https://img.shields.io/badge/KCC-ITM-red?style=for-the-badge)
 
-Description
+### 💻 Searching & Sorting Algorithms in Java
 
-This repository contains the solutions for Week 2 Module assignments implemented in Java. The programs demonstrate searching and sorting techniques along with their execution outputs.
+*Building a strong foundation in Data Structures & Algorithms through practical Java implementations.*
 
-Programs Included
+⭐ *If you find this repository useful, consider giving it a star!*
 
-1. Fraud Transaction Detection (Linear Search)
+</div>
 
-- Searches for a suspicious transaction ID in an unsorted list.
-- Concept Used: Linear Search
+---
 
-2. Server Log Search (Binary Search)
+# 👨‍💻 Student Information
 
-- Searches for a log ID in a sorted list.
-- Concept Used: Binary Search
+| 👤 Details | 📌 Information |
+|------------|----------------|
+| **Name** | Ayush Gupta |
+| **Branch** | B.Tech CSE (AI & ML) |
+| **College** | KCC Institute of Technology & Management |
 
-3. Sort Employee Salaries (Bubble Sort)
+---
 
-- Sorts employee salaries in ascending order.
-- Concept Used: Bubble Sort
+# 📖 About This Repository
 
-4. Sort Website Response Time (Insertion Sort)
+This repository contains the solutions for **Week 2 Module** assignments implemented in **Java**. The programs demonstrate fundamental **Searching** and **Sorting** techniques along with their execution outputs.
 
-- Sorts website response times.
-- Concept Used: Insertion Sort
+---
 
-5. Prioritize Bug Reports (Selection Sort)
+# 📂 Programs Included
 
-- Sorts bug priority scores in ascending order.
-- Concept Used: Selection Sort
+| 💡 Program | 📚 Concept |
+|------------|------------|
+| 🔍 Fraud Transaction Detection | Linear Search |
+| 🔎 Server Log Search | Binary Search |
+| 📈 Sort Employee Salaries | Bubble Sort |
+| ⚡ Sort Website Response Time | Insertion Sort |
+| 🏆 Prioritize Bug Reports | Selection Sort |
 
-Files Included
+---
 
-- LinearSearch.java
-- BinarySearch.java
-- BubbleSort.java
-- InsertionSort.java
-- SelectionSort.java
-- Week 2 Module.pdf
+# 📁 Repository Contents
 
-Technologies Used
+```
+📦 Week-2-Module
+ ┣ 📄 LinearSearch.java
+ ┣ 📄 BinarySearch.java
+ ┣ 📄 BubbleSort.java
+ ┣ 📄 InsertionSort.java
+ ┣ 📄 SelectionSort.java
+ ┣ 📄 Week 2 Module.pdf
+ ┗ 📄 README.md
+```
 
-- Java
-- VS Code
+---
 
-Author
+# 🛠️ Technologies Used
 
-Ayush Gupta
+<p align="center">
+
+☕ **Java** &nbsp;&nbsp;&nbsp; 💻 **VS Code**
+
+</p>
+
+---
+
+# 🎯 Learning Outcomes
+
+✅ Understand Linear & Binary Search
+
+✅ Learn Bubble, Insertion & Selection Sort
+
+✅ Analyze searching and sorting techniques
+
+✅ Improve Java programming skills
+
+✅ Build a strong DSA foundation
+
+---
+
+# 👨‍💻 Author
+
+<div align="center">
+
+## Ayush Gupta
+
+🎓 **B.Tech CSE (AI & ML)**
+
+🏫 **KCC Institute of Technology & Management**
+
+🌱 *Passionate about Java • DSA • AI/ML*
+
+---
+
+### ⭐ Thanks for visiting this repository!
+
+**Happy Coding! 🚀**
+
+</div>
